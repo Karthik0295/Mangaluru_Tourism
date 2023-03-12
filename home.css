@@ -63,7 +63,7 @@
   padding-bottom: var(--dl-space-space-quadruple);
   background-size: cover;
   justify-content: flex-start;
-  background-image: url("public/playground_assets/ttd.jpg");
+  background-image: url("docs/playground_assets/ttd.jpg");
   background-attachment: fixed;
 }
 .main-text1 {
@@ -89,7 +89,7 @@
 }
 .main-root-class-name {
   background-size: cover;
-  background-image: url("public/playground_assets/thingstodo%20bg-200h.jpg");
+  background-image: url("docs/playground_assets/thingstodo%20bg-200h.jpg");
 }
 @media(max-width: 991px) {
   .main-cards-container {
@@ -123,7 +123,7 @@
   width: 100%;
   height: 77px;
   display: flex;
-  background-image: url(public/playground_assets/home%20page-1500h.jpg);
+  background-image: url(docs/playground_assets/home%20page-1500h.jpg);
   background-size: cover;
 
 
@@ -268,7 +268,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url("./public/playground_assets/home page-1500h.jpg");
+  background-image: url("./docs/playground_assets/home page-1500h.jpg");
   background-position: center;
   background-attachment: fixed;
 }
@@ -580,7 +580,7 @@
   flex-direction: row;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/playground_assets/kudroli-gokarnath-temple-gokarnanatheshwara-temple-mangalore-tourism-entry-fee-timings-holidays-reviews-header-1500w.jpg");
+  background-image: url("docs/playground_assets/kudroli-gokarnath-temple-gokarnanatheshwara-temple-mangalore-tourism-entry-fee-timings-holidays-reviews-header-1500w.jpg");
 }
 .home-container31 {
   flex: 0 0 auto;
@@ -605,7 +605,7 @@
   align-items: center;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/playground_assets/masjid-1500w.jpg");
+  background-image: url("docs/playground_assets/masjid-1500w.jpg");
   border-bottom-left-radius: var(--dl-radius-radius-radius8);
 }
 .home-container33 {
@@ -642,7 +642,7 @@
   margin-bottom: var(--dl-space-space-halfunit);
   background-size: cover;
   justify-content: center;
-  background-image: url("public/playground_assets/kite-festival-panambur-beach-mangalore-1500w.jpg");
+  background-image: url("docs/playground_assets/kite-festival-panambur-beach-mangalore-1500w.jpg");
 }
 .home-container36 {
   flex: 0 0 auto;
@@ -668,7 +668,7 @@
   margin-left: var(--dl-space-space-halfunit);
   background-size: cover;
   justify-content: center;
-  background-image: url("public/playground_assets/kateel-1500w.jpg");
+  background-image: url("docs/playground_assets/kateel-1500w.jpg");
 }
 .home-container38 {
   flex: 0 0 auto;
@@ -704,7 +704,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: flex-end;
-  background-image: url("public/playground_assets/st-aloysius-chapel-mangalore-tourism-entry-fee-timings-holidays-reviews-header-300h.jpg");
+  background-image: url("docs/playground_assets/st-aloysius-chapel-mangalore-tourism-entry-fee-timings-holidays-reviews-header-300h.jpg");
   border-top-right-radius: var(--dl-radius-radius-radius8);
 }
 .home-container41 {
@@ -731,7 +731,7 @@
   margin-left: var(--dl-space-space-unit);
   background-size: cover;
   justify-content: center;
-  background-image: url("public/playground_assets/kadri_temple-1500w.jpeg");
+  background-image: url("docs/playground_assets/kadri_temple-1500w.jpeg");
   border-bottom-left-radius: var(--dl-radius-radius-radius4);
   border-bottom-right-radius: var(--dl-radius-radius-radius4);
 }
@@ -877,7 +877,7 @@
   }
   .home-hero {
     background-size: cover;
-    background-image: url("public/playground_assets/home%20page-1500h.jpg");
+    background-image: url("docs/playground_assets/home%20page-1500h.jpg");
   }
   .home-container05 {
     box-shadow: 5px 5px 5px 0px #404040;
@@ -1101,7 +1101,7 @@
     align-self: flex-end;
     margin-right: 5px;
     background-size: cover;
-    background-image: url("public/playground_assets/kudroli-gokarnath-temple-gokarnanatheshwara-temple-mangalore-tourism-entry-fee-timings-holidays-reviews-header-1500w.jpg");
+    background-image: url("docs/playground_assets/kudroli-gokarnath-temple-gokarnanatheshwara-temple-mangalore-tourism-entry-fee-timings-holidays-reviews-header-1500w.jpg");
   }
   .home-text16 {
     width: 142px;
@@ -1117,7 +1117,7 @@
     margin-top: 5px;
     margin-right: 5px;
     background-size: 120%;
-    background-image: url("public/playground_assets/chapel-1500w.jpeg");
+    background-image: url("docs/playground_assets/chapel-1500w.jpeg");
   }
   .home-text17 {
     width: 142px;
@@ -1133,7 +1133,7 @@
     margin-top: 5px;
     margin-right: 5px;
     background-size: cover;
-    background-image: url("public/playground_assets/kadri_temple-1500w.jpeg");
+    background-image: url("docs/playground_assets/kadri_temple-1500w.jpeg");
   }
   .home-text18 {
     width: 142px;
@@ -1151,7 +1151,7 @@
     align-self: flex-end;
     margin-left: 5px;
     background-size: cover;
-    background-image: url("public/playground_assets/kite-festival-panambur-beach-mangalore-1500w.jpg");
+    background-image: url("docs/playground_assets/kite-festival-panambur-beach-mangalore-1500w.jpg");
   }
   .home-text19 {
     width: 142px;
@@ -1167,7 +1167,7 @@
     margin-top: 5px;
     margin-left: 5px;
     background-size: 130%;
-    background-image: url("public/playground_assets/kateel-1500w.jpg");
+    background-image: url("docs/playground_assets/kateel-1500w.jpg");
   }
   .home-text20 {
     width: 142px;
@@ -1183,7 +1183,7 @@
     margin-top: 5px;
     margin-left: 5px;
     background-size: cover;
-    background-image: url("public/playground_assets/masjid-1500w.jpg");
+    background-image: url("docs/playground_assets/masjid-1500w.jpg");
   }
   .home-text21 {
     width: 142px;
